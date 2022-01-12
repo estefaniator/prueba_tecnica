@@ -1,3 +1,4 @@
 Este es el fichero.txt
  con una modificación
  modificado desde rama2
+linea conflictiva desde rama3
