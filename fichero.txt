@@ -1,2 +1,3 @@
 Este es el fichero.txt
  con una modificación
+ modificado desde rama2
